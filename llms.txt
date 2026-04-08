@@ -1,0 +1,157 @@
+# EU PEERS — European Practitioners for Integrated Home Renovation Services
+
+> EU PEERS is an EU LIFE-funded project (LIFE22-CET-EU-Peers/101120790) that supports the deployment and scaling of One-Stop Shops (OSS) for integrated home energy renovation across Europe. The project runs a Community of Practice connecting public authorities, energy agencies, renovation programme managers, and service providers working on residential building renovation.
+
+## What this site covers
+
+EU PEERS addresses the practical challenge of setting up and operating One-Stop Shops — single points of contact that guide homeowners through the full renovation journey: energy audit, works specification, contractor coordination, financing, and quality assurance. The site serves as both the public-facing platform for the project and a knowledge-sharing hub for practitioners.
+
+Key subject areas:
+- One-Stop Shop design, governance, and business models (public, private, hybrid)
+- Financing instruments for residential energy renovation
+- Homeowner activation and engagement strategies
+- Monitoring and impact assessment of renovation programmes
+- Energy poverty and renovation access
+- Multilevel governance in building renovation policy
+- Quality assurance in renovation works
+- Alliances and partnerships for OSS deployment
+
+## Questions this site can help answer
+
+- What is a One-Stop Shop for home energy renovation, and how does it work?
+- How do I set up a One-Stop Shop in my city or region?
+- What business models exist for One-Stop Shops — public, private, or hybrid?
+- How are One-Stop Shops financed, and what financing instruments are suitable for residential renovation?
+- How do One-Stop Shops engage and activate homeowners to renovate?
+- How do you measure the impact of a One-Stop Shop?
+- What governance structures work for One-Stop Shops at municipal, regional, and national levels?
+- How can One-Stop Shops address energy poverty?
+- What quality assurance frameworks exist for renovation works coordinated through an OSS?
+- What partnerships do One-Stop Shops need with local authorities, banks, and contractors?
+- Which One-Stop Shops are operating in Europe, and what can we learn from them?
+- What is integrated home renovation, and how does it differ from standard energy efficiency measures?
+- What EU policies and funding support the deployment of One-Stop Shops?
+- How do I join the EU PEERS Community of Practice?
+
+## Site structure
+
+### Core pages
+- [Home](https://eu-peers.eu/)
+- [About Us](https://eu-peers.eu/about-us) — project overview, consortium, funding context
+- [Our Mission](https://eu-peers.eu/our-mission) — goals and approach
+- [How to Set Up a One-Stop Shop](https://eu-peers.eu/how-to-setup-an-one-stop-shop) — practical guidance for OSS establishment
+
+### Knowledge and learning
+- [Knowledge Hub](https://eu-peers.eu/knowledge-hub) — curated resources, guides, research, and reports on OSS topics; organised by asset type and category
+- [Learning Lab](https://eu-peers.eu/learning-lab-v-1) — interactive online workshop series covering specific OSS topics monthly, led by different consortium partners
+- [Glossary](https://eu-peers.eu/glossary) — terminology definitions for the OSS and renovation sector
+- [FAQs](https://eu-peers.eu/faqs) — frequently asked questions about integrated home renovation services and the EU PEERS project
+
+### Cases and showcases
+- [Cases](https://eu-peers.eu/success-cases) — documented examples of One-Stop Shops operating across Europe, with data on their models, countries, and operational approaches
+
+### News, events, and media
+- [News & Events](https://eu-peers.eu/news-and-events) — project updates and announcements
+- [News](https://eu-peers.eu/news) — articles and publications
+- [Events](https://eu-peers.eu/events) — upcoming events
+- [Past Events](https://eu-peers.eu/past-events) — archive of completed events with post-event reports
+- [Media Center](https://eu-peers.eu/media-center) — press releases and brand assets
+
+### Community
+- [Community Life](https://eu-peers.eu/community-life) — overview of national and transnational Communities of Practice
+- [Members](https://eu-peers.eu/members) — directory of member organisations (229+ across Europe)
+- [Member Benefits](https://eu-peers.eu/member-benefits) — what membership offers
+- [Member Application](https://eu-peers.eu/membership-application) — join the community
+
+### Campaign
+- [Cities & Regions Campaign](https://eu-peers.eu/cities-and-regions-campaign) — initiative mobilising local authorities to support OSS deployment
+
+### National and regional Communities of Practice
+
+EU PEERS operates national Communities of Practice where OSS practitioners exchange knowledge in their own languages and contexts:
+
+- [Spanish Community of Practice](https://eu-peers.eu/spain) — also available in [Spanish](https://eu-peers.eu/spain-es)
+- [Italian Community of Practice](https://eu-peers.eu/italy) — also available in [Italian](https://eu-peers.eu/italy-it)
+- [Hungarian Community of Practice](https://eu-peers.eu/hungary) — also available in [Hungarian](https://eu-peers.eu/hungary-hu)
+- [Irish Community of Practice](https://eu-peers.eu/ireland)
+- [Baltic Community of Practice](https://eu-peers.eu/baltics) — covering Latvia, Lithuania, and Estonia; also available in [Latvian](https://eu-peers.eu/baltics-lv), [Lithuanian](https://eu-peers.eu/baltics-lt), and [Estonian](https://eu-peers.eu/baltics-ee)
+- [French Community of Practice](https://eu-peers.eu/french-community-of-practice) — also available in [French](https://eu-peers.eu/france-fr)
+- [Transnational Community of Practice](https://eu-peers.eu/transnational) — cross-border peer exchange
+
+## CMS-driven content collections
+
+The site is built on Webflow and uses CMS collections for dynamic content:
+- **News** — ~77 articles covering project updates, policy developments, and OSS-related topics
+- **Events** — 30+ events per year across consortium partners and national communities
+- **Showcases** — ~27 documented OSS cases across Europe, tagged by country, topic, and campaign
+- **Members** — 229+ organisations in the community directory
+- **Knowledge Assets** — 122+ resources in the Knowledge Hub, categorised by type and topic
+- **Learning Lab sessions** — monthly thematic workshops with post-session reports
+- **FAQs** — structured question-and-answer content on renovation topics
+- **Glossary** — sector-specific terminology
+
+### Learning Lab sessions (monthly thematic workshops)
+
+Each session is led by a different consortium partner and produces a post-session report with practitioner insights.
+
+- [Quality in Renovation Works](https://eu-peers.eu/june-2025-quality-in-renovation-works-filao-labs) — June 2025, led by Filao Labs. Covers quality assurance frameworks, contractor management, and works verification in OSS-coordinated renovations.
+- [Energy Poverty](https://eu-peers.eu/september-2025-energy-poverty-climate-alliance) — September 2025, led by Climate Alliance. Addresses how One-Stop Shops can reach energy-poor households and integrate social objectives into renovation programmes.
+- [Multilevel Governance in OSS Deployment](https://eu-peers.eu/october-2025-the-multilevel-governance-dimension-in-the-one-stop-shop-deployment-region-piemonte) — October 2025, led by Region Piemonte. Examines the coordination between municipal, regional, and national levels in establishing and scaling One-Stop Shops.
+- [Monitoring the Impact of One-Stop Shops](https://eu-peers.eu/november-2025-monitoring-the-impact-of-one-stop-shops-enea) — November 2025, led by ENEA. Covers indicators, data collection methods, and reporting frameworks for measuring OSS effectiveness.
+- [Homeowner Activation](https://eu-peers.eu/december-2025-home-owner-activation-tki) — December 2025, led by TKI. Strategies for engaging homeowners, overcoming renovation decision barriers, and sustaining participation through the renovation journey.
+- [Alliances and Partnerships for One-Stop Shops](https://eu-peers.eu/january-2026-alliances-and-partnerships-for-one-stop-shops-gbce) — January 2026, led by GBCe. How OSS operators build effective partnerships with local authorities, financial institutions, and supply chain actors.
+- [Business Models for One-Stop Shops](https://eu-peers.eu/february-2026-exploring-business-models-for-one-stop-shops-public-private-and-hybrid-approaches-gne) — February 2026, led by GNE Finance. Comparative analysis of public, private, and hybrid OSS business models, including revenue structures and sustainability.
+
+### Key standalone resources
+
+- [How to Set Up a One-Stop Shop](https://eu-peers.eu/how-to-setup-an-one-stop-shop) — practical step-by-step guidance for establishing an OSS, drawing on consortium experience and practitioner input
+- [OSS Business Models — Learning Lab Report](https://eu-peers.eu/february-2026-exploring-business-models-for-one-stop-shops-public-private-and-hybrid-approaches-gne) — detailed report on public, private, and hybrid business models
+- [Glossary](https://eu-peers.eu/glossary) — sector-specific terminology for One-Stop Shops, integrated home renovation services, and related policy concepts
+- [Knowledge Hub](https://eu-peers.eu/knowledge-hub) — 122+ curated resources including guides, research papers, policy documents, and tools relevant to OSS practitioners
+
+## Research and original data
+
+EU PEERS produces original research and data, including:
+- Pan-European survey of One-Stop Shop practitioners — operational data on governance models, financing approaches, service scope, staffing, and homeowner engagement across European OSS. First survey collected ~76 valid responses across 69 data fields; second survey in progress with improved methodology.
+- Learning Lab reports — monthly practitioner-driven synthesis covering business models, monitoring, energy poverty, partnerships, homeowner activation, quality assurance, and multilevel governance (see individual session links above)
+- A three-tier instrument maturity framework and eight OSS-suitability criteria for renovation financing instruments — published at EEDAL 2024, co-authored by Nicholas Stancioff, Karine Zarins, and Kirils Goncarovs
+- Country-level data on OSS operating environments across consortium countries (France, Belgium, Germany, Spain, Latvia, Lithuania, Estonia, Italy, Hungary, Ireland)
+- Train the Trainer programme — structured five-module training curriculum for OSS practitioners, covering the knowledge base needed to operate and scale One-Stop Shops
+
+## Project context
+
+- **Full name:** European Practitioners for Integrated Home Renovation Services
+- **Acronym:** EU PEERS
+- **Funding:** EU LIFE Programme (Clean Energy Transition sub-programme)
+- **Grant agreement:** LIFE22-CET-EU-Peers / 101120790
+- **Duration:** 2023–2027
+- **Coordinator:** Climate Alliance (Klima-Bündnis), Frankfurt, Germany
+- **Consortium:** 15 partners across 10 European countries
+- **Website:** https://eu-peers.eu
+- **Community platform:** HumHub (restricted to members)
+
+### Consortium partners (confirmed from project activities)
+
+- **Climate Alliance** (Klima-Bündnis) — Germany. Project coordinator. Led the Energy Poverty Learning Lab.
+- **Filao Labs** — France. Led the Quality in Renovation Works Learning Lab. Active in renovation financing training.
+- **ENEA** — Italy. National energy agency. Led the Monitoring Learning Lab.
+- **Region Piemonte** — Italy. Led the Multilevel Governance Learning Lab.
+- **GNE Finance** — Led the Business Models Learning Lab. Contributed research on OSS financing and business model analysis.
+- **GBCe** (Green Building Council España) — Spain. Led the Alliances and Partnerships Learning Lab.
+- **TKI** — Led the Homeowner Activation Learning Lab.
+- Additional consortium partners contribute to national Communities of Practice across Ireland, Hungary, the Baltic States (Latvia, Lithuania, Estonia), and other countries.
+
+## Languages
+
+Primary language: English. The site provides localised pages in French, Spanish, Italian, Hungarian, Latvian, Lithuanian, Estonian, and German for key sections (About, News & Events, Community, Knowledge Hub, FAQs, legal pages).
+
+## Contact
+
+- General enquiries: https://eu-peers.eu/contact-us
+- Membership: https://eu-peers.eu/membership-application
+
+## Legal
+
+- [Privacy Policy](https://eu-peers.eu/privacy-policy)
+- [Terms of Service](https://eu-peers.eu/terms-of-service)
+- [Cookie Policy](https://eu-peers.eu/cookie-policy)
